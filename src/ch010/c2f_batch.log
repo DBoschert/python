@@ -1,0 +1,6 @@
+ERROR:root:Exception:
+Traceback (most recent call last):
+  File "C:\repos\python\src\ch010\c2f_batch_safe.py", line 13, in <module>
+    c = float(cstr)
+        ^^^^^^^^^^^
+ValueError: could not convert string to float: 'p'
